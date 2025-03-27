@@ -5,5 +5,4 @@ async function product(a, b) {
 function display(some) {
     document.getElementById("result").innerHTML = some;
 }
-// Function call
 product(5, 20);
